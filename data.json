@@ -1,0 +1,39 @@
+{
+  "arrayColores": [
+    {
+      "id": 1,
+      "nombreColor": "Rojo",
+      "valorHexadec": "#f00"
+    },
+    {
+      "id": 2,
+      "nombreColor": "Verde",
+      "valorHexadec": "#0f0"
+    },
+    {
+      "id": 3,
+      "nombreColor": "Azul",
+      "valorHexadec": "#00f"
+    },
+    {
+      "id": 4,
+      "nombreColor": "Cyan",
+      "valorHexadec": "#0ff"
+    },
+    {
+      "id": 5,
+      "nombreColor": "Magenta",
+      "valorHexadec": "#f0f"
+    },
+    {
+      "id": 6,
+      "nombreColor": "Amarillo",
+      "valorHexadec": "#ff0"
+    },
+    {
+      "id": 7,
+      "nombreColor": "Negro",
+      "valorHexadec": "#000"
+    }
+  ]
+}

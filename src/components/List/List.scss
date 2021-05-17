@@ -1,0 +1,25 @@
+.List {
+  &__ul {
+    display: flex;
+    list-style: none;
+    justify-content: space-evenly;
+
+    li {
+      cursor: pointer;
+    }
+    li:hover {
+      transform: scale(1.2);
+    }
+  }
+}
+
+@media screen and (max-width: 920px) {
+  .List {
+    &__ul {
+      flex-direction: column;
+      li {
+        margin: 2px;
+      }
+    }
+  }
+}
